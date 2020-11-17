@@ -35,13 +35,13 @@ console.log(error, "Something went wrong...");
 
 ---
 
-> > > ## Demo
+> > > ## DEMO
 
 To try an online demo, please click [here](https://repl.it/talk/share/Console-Color/80202).
 
 ---
 
-> > > ## Run locally
+> > > ## RUN IT LOCALLY
 
 ### `1`
 
