@@ -18,7 +18,7 @@ This repo contains:
 ### **_consoleColor.js_**
 
 > **CC function:** In this file contains the logic to use the escape sequences referenced on _config.js_. It returns a function named CC, that stands for 'console color', which has no special meaning beyond this scope. </br>
-> This function accepts multiple arguments, being the first one the string to be addressed followed by the desired configurations. </>
+> This function accepts multiple arguments, being the first one the string to be addressed followed by the desired configurations. </br>
 > The configurations are the accessed using the convention established in the 'config' object and follows a simple format, 'type-property'. For more clarity please check the following examples:
 
 ```
