@@ -35,7 +35,7 @@ console.log(error, "Something went wrong...");
 
 ---
 
-> > > ## DEMO
+> > > ## Demo
 
 To try an online demo, please click [here](https://repl.it/talk/share/Console-Color/80202).
 
