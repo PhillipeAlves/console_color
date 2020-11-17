@@ -1,0 +1,16 @@
+{
+  "name": "colorfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "examples.js",
+  "scripts": {
+    "start": "node main",
+    "dev": "nodemon -q main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
