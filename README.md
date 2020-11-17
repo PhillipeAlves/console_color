@@ -7,7 +7,8 @@ This repo contains:
 
 ### **_config.js_**
 
-> **Escape sequences:** '\x1b' is the code for the non-printable control character escape. Escape sequences dealing only with colors and styles are also known as ANSI escape code and are standardized, so therefore they (should) work on any platform. '\x1b[31m', for example, is an escape sequence that will be intercepted by your terminal and instructs it to switch to the red color. [Learn more...](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors)</br> > **Convention:** in this file it was established a simple convention to access the properties of the 'config' object. Respectively:
+> **Escape sequences:** '\x1b' is the code for the non-printable control character escape. Escape sequences dealing only with colors and styles are also known as ANSI escape code and are standardized, so therefore they (should) work on any platform. '\x1b[31m', for example, is an escape sequence that will be intercepted by your terminal and instructs it to switch to the red color.</br>
+> </br>[Learn more...](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors)</br> </br> > **Convention:** in this file it was established a simple convention to access the properties of the 'config' object. Respectively:
 >
 > - **G** - General configurations
 > - **F** - Font colors
