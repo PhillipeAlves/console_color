@@ -41,7 +41,7 @@ To try an online demo, please click [here](https://repl.it/talk/share/Console-Co
 
 ---
 
-> > > ## Try locally
+> > > ## Run locally
 
 ### `1`
 
